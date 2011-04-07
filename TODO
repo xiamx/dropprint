@@ -1,0 +1,2 @@
+* Clean up hard coded config
+* Add commandline options to run as a daemon or to pass other options

@@ -1,7 +1,10 @@
 """
 Author: Mengxuan Xia <xiamx2004@gmail.com>
 Last update: 2011/02/16
-Description: This script can automatically print files located in dropbox printqueue. It is based on Kurt Granroth's original bash script http://www.labnol.org/software/print-files-on-linux/17841/. This script depends on pyinotify and pynotify. 
+Description: This script can automatically print files located in 
+dropbox printqueue. It is based on Kurt Granroth's original bash 
+script http://www.labnol.org/software/print-files-on-linux/17841/. 
+This script depends on pyinotify and pynotify. 
 
 Copyright (c) 2011, Mengxuan Xia
 All rights reserved.
@@ -34,9 +37,8 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
 LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY 
 WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
 OF SUCH DAMAGE.
-
-
 """
+
 
 import pyinotify
 import subprocess
